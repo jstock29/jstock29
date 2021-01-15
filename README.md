@@ -1,5 +1,5 @@
 # Hi there!
-I'm Jared. I currently work as a Digital Consultant at Arup. Most of my work can't be shared publicly, so this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Let's just acknowledge that things are gonna get weird. 
+I'm Jared. I currently work as a Digital Consultant at Arup. Most of my work can't be shared publicly, so this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might gonna get weird. 
 
 
 # My repos
