@@ -1,5 +1,5 @@
 # Hi there!
-I'm Jared. I currently work as a Digital Consultant at Arup. Most of my work can't be shared publicly, so this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might get weird. 
+I'm Jared. I currently work as a Digital Consultant at Arup. Most of my work can't be shared publicly, but this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might get weird. 
 
 
 # My repos
@@ -16,7 +16,7 @@ This is a [joke website](https://teetum.com/blog) I made for my friend Tatum's b
  It's a pretty simple Angular app that I used to teach myself about deployment on AWS, https, and DNS management. I also designed this to work best on mobile but still be usable on a desktop. I also added a bunch of little easter eggs throughout and all of them will make no sense. 
 
 ## Bigballsannie.com
-Ok yes, I know, the name. I think it would be better for both of us if you didn't ask. 
+Ok yes, I know. The name. I think it would be better for both of us if you didn't ask. 
 
 Otherwise, this is another joke website I made for my friend's birthday. You can visit this ridiculous site at [bigballsannie.com](https://bigballsannie.com/) (or .club, for some reason), but you'll have to answer a math problem to enter, because my friend loves math. This was designed _entirely_ for a mobile web user, so it will look a bit janky on a desktop. 
 
