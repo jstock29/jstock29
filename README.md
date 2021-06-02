@@ -10,6 +10,9 @@ I've been leading this pro-bono project at Arup to create an open database and c
 
 You can read all about the code and data at the [repository](https://github.com/arup-group/social-data). You can also check out the data using our fun new [Streamlit app!](https://share.streamlit.io/arup-group/social-data/run.py)
 
+## Deal or No Deal
+I contend that Deal or No Deal is the greatest game show conceived by humanity. It's just a fascinating window into humanity itself. But that's not what this repository is all about. I'm especially interested in the Banker, so I decided to try to figure out how the Banker's algorithm works. You can follow along with this full saga through [some articles I wrote on Medium](https://towardsdatascience.com/i-figured-out-how-deal-or-no-deal-works-kind-of-875e63a8cef6), but this repository is where I've been storing all of that code. I've been using Streamlit to build interfaces to help me collect data, vizualize trends, and build and test machine learning models to replicate the Banker. 
+
 ## Teetum.com
 This is a [joke website](https://teetum.com/blog) I made for my friend Tatum's birthday. It's a parody of her blog, laden with jokes that will make no sense and pictures that straddle the line of postability. I debuted this at her spooky-themed birthday party and it's one of the best gifts I've ever given.
 
