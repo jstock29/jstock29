@@ -1,4 +1,4 @@
-# Hi there!
+# Hello!
 I'm Jared. I currently work as a Senior Digital Consultant and Lead Developer at Arup. Most of my work can't be shared publicly, but this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might get weird. 
 
 
@@ -26,6 +26,11 @@ Ok yes, I know. The name. I think it would be better for both of us if you didn'
 Otherwise, this is another joke website I made for my friend's birthday. You can visit this ridiculous site at [bigballsannie.com](https://bigballsannie.com/), but you'll have to answer a math problem to enter, because my friend loves math. This was designed _entirely_ for a mobile web user, so it will look a bit janky on a desktop. 
 
 I took this project in a different artistic direction than the previous joke site I made. Due to my friend's obsession with Animal Crossing, I decided to turn this into a sort of playground with a Stonk Market game (based on Animal Crossing turnip-based Stalk Market), a bulletin board of embarassing pictures, and an endless math quiz.
+
+## jaredstock.com
+As one of the few domains I've bought for non-ridiculous reasons, this is [my personal site](https://jaredstock.com). I wanted this to be a showcase of stuff I've done, but also not feel like it came out of a SqareSpace template. I wanted this to be something only I would make. I agonized over pretty much everything: the speed of the scroll effect, the exact hex values of blue and yellow, the fonts (I love the header font and I'm not changing it), all the way down to details like the text selection color. I even tried to animate the logo to make it feel like breath, rather than just bobbing up and down. 
+
+I'll never be fully happy with it, but I like where it is now, though I should add some easter eggs to it. 
 
 ## Interpolator
 This is one of the very first projects I ever did. I made a really simple html and JavaScript interpolation calculator. This was a chance for me to learn about frontend web development and stumble way to deploying a real site. The site has long since vanished from the internet, but the code is still here for me look back at with a mix of pride and embarrassment. 
