@@ -15,6 +15,11 @@ I contend that _Deal or No Deal_ is the greatest game show ever conceived. It's 
 
 I'm interested in how the Banker works, so I decided to try to reverse engineer the Banker's algorithm. You can follow along with this full saga through [some articles I wrote on Medium](https://towardsdatascience.com/i-figured-out-how-deal-or-no-deal-works-kind-of-875e63a8cef6), but this repository is where I've been storing all of that code. I've been using Streamlit to build interfaces to help me collect data, vizualize trends, and build and test machine learning models to replicate the Banker. I also created [another Streamlit app](https://share.streamlit.io/jstock29/dealnodeal/main/app.py) where you can see what different Bankers (read: machine learning models) will predict the offer will be for a given board. This app was actually a bit tricky to make because managing state in Steamlit isn't straightforward (just take a look at the url to see).
 
+## Squirrel Attack
+I made this for an interview where the team wanted me to just show something new that I haven't done before. I hadn't worked with native development at all, so decided to build a React Native app. I also wanted to show that I can work at all levels of the stack.
+
+New York City's open data portal has a delightful dataset called the Central Park Squirrel Census. Over the summer of 2020, I spent a lot of time in Central Park with my friends, which revealed one of my friend's deep dislike of squirrels. This led to this app, which is a Squirrel Aggression Predictor. I made a small machine learning model trained on the CPSC (in a SQL database) and deployed that to an API endpoint. I then made my React Native frontend to allow someone to enter some information about a squirrel and get a prediction for whether that squirrel poses a threat (spoiler: they do not pose a threat). 
+
 ## Teetum.com
 This is a [joke website](https://teetum.com/blog) I made for my friend Tatum's birthday. It's a parody of her blog, laden with jokes that will make no sense and pictures that straddle the line of postability. I debuted this at her spooky-themed birthday party and it's one of the best gifts I've ever given.
 
