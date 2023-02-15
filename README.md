@@ -1,5 +1,5 @@
 # Hello!
-I'm Jared. I currently work as a Senior Digital Consultant and Lead Developer at Arup. Most of my work can't be shared publicly, but this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might get weird. 
+I'm Jared. I currently work as a Senior Developer at Thoughtworks. Most of my work can't be shared publicly, but this is where I keep personal projects. You'll notice I have a problem where I impulse buy domains for my friends. Things might get weird. 
 
 
 # My repos
