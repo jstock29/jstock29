@@ -6,7 +6,7 @@ I'm Jared. I currently work as a Senior Developer at Thoughtworks. Most of my wo
 ## Arup Social Data
 I lied! This is work I can share publicly! [Update: the repository has been made inaccessible by Arup, but the site remains up.]
 
-I've been leading this pro-bono project at Arup to create an open database and code to help address the looming eviction crisis in the US. This initally started as a collaboration with New Story, an excellent charity who we worked with to help make decisions about direct payments to renters in the Bay Area. Since then, we've expanded the database and analysis to include over 40 datasets (over 2 million rows of data) from a variety of sources including the US Census, ACS, FRED, HUD, EPA, and more. I'm pretty proud of this project and hope that it can help some people. 
+I lead a pro-bono project at Arup to create an open database and code to help address the looming eviction crisis in the US. This initally started as a collaboration with New Story, an excellent charity who we worked with to help make decisions about direct payments to renters in the Bay Area. Since then, we've expanded the database and analysis to include over 40 datasets (over 2 million rows of data) from a variety of sources including the US Census, ACS, FRED, HUD, EPA, and more. I'm pretty proud of this project and hope that it can help some people. 
 
 You can read all about the code and data at the [repository](https://github.com/arup-group/social-data). You can also check out the data using our fun new [Streamlit app!](https://share.streamlit.io/arup-group/social-data/run.py)
 
